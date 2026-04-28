@@ -15,4 +15,4 @@ I am a computer science major at CSUF and i plan on graduating in 2029
 
 * Lab 3
 
-    This was a enjoyable lab as it was the very beginner friendly compared to other labs for the coding exercise. The first part was coding in a BMR, while the second part was using int for a template for a date for a year which was fun to program and test to see the results.
+    This was a enjoyable lab as it was very beginner friendly compared to other labs for the coding exercise. The first part was coding in a BMR, while the second part was using int for a template for a date for a year which was fun to program and test to see the results.
